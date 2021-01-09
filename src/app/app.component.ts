@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 import * as firebase from 'firebase';
 
 const config = {
-  apiKey: 'YOUR_API_KEY',
-  databaseURL: 'YOUR_DATABASE_URL'
+  apiKey: 'AIzaSyCIqB2fdTjRu4Lr42PlMOxWV-hyg0NYcBQ',
+  databaseURL: 'https://chatangularapp-default-rtdb.firebaseio.com'
 };
 
 @Component({
